@@ -90,7 +90,7 @@ A list of resources for SuperMemo users.
 
 ### Community
 
-- [Supermemo Wiki](https://supermemo.wiki/#/) - Community guides & documentation for SuperMemo (🚧 work in progress)
+- [Supermemo Wiki](https://supermemo.wiki/#/) - Community guides & documentation for SuperMemo
 - [A Fool's guide to SM](https://www.youtube.com/watch?v=i33BTuwTgAs&list=PL7RwmzKKAH8eKbDpOe5e-Omfp2Zqed6U1&index=1)
 - [SuperMemo Lore](https://github.com/supermemo/SuperMemoLore) - Collected wisdom & tips gathered from Discord
 - [SM Tips](https://cdn.discordapp.com/attachments/421645841003053057/615920920745213972/SMTips.rar) - Series of screenshots with SMtips
